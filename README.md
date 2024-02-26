@@ -1,2 +1,2 @@
 # Excel
-This excel project 
+This is excel project 
